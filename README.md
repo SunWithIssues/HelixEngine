@@ -1,3 +1,9 @@
+### Below this is my personal README
+
+If time allows, I will try to run this, and make edits. As of now, there are no changes from the original document by fauu
+
+### Below this line is the original README
+
 #Helix Engine
 *Note: This is work in progress*
 
